@@ -2,7 +2,7 @@
 A Library to read the Siemens TIA Files
 
 # License
-At the moment there is only a comercial licence available. Please contact me for an indivual offer.
+At the moment there is only a comercial licence available. Please contact us (info@jfk-solutions.de) for an individual offer.
 
 # What is supported:
  * Read the Project/PLF files or read them directly from a compressed TIA project
