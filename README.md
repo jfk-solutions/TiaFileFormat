@@ -17,6 +17,8 @@ At the moment there is only a comercial licence available. Please contact us (in
  * High level function to extract Hardware Information
  * High level functions to access the Screens of WinCC Adavanced, WinCC Professional and WinCC Unified
  * High level functions to access all scripts of the WinCC Projects
+ * Export of Graph, CEM as AutomationXML
+ * Export of Charts as AutomationXML
 
 Features can be improved based on an additional contract.
 
