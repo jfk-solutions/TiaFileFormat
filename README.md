@@ -24,6 +24,14 @@ Features can be improved based on an additional contract.
 
 ## Datatypes
 
+TiaDatabaseFile - This is a Wrapper over the TIA PLF files. It Wrapps one or more PLF Files (depending on the Project Size)
+
+It holds a Dictionary of all the "StorageObjects" inside of a TIA Project.
+
+StorageObject - This is the Base DataStructure in a PLF File. There are some Basic ones (wich are inherited from StorageSystemObject), these are needed to Parse the infromation inside of the PLF File, and the most common ones, wich are inherited from "StorageBusinessObject", these contain all the Data of a TIA Project. So for example one contains an ProgramAlarm, or one contains the Header Data of a TIA FunctionBlock.
+
+You can always access the Information in this Blocks directly, but they are hard to Parse. For this there are High Level functions in the Namespace "Wrappers", wich accumulate the Infromation in different parts of the project to get some easy to use data.
+
 ## Read Projects
 
 ### Open Tia Project
