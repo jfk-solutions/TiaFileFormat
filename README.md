@@ -22,6 +22,14 @@ At the moment there is only a comercial licence available. Please contact us (in
 
 Features can be improved based on an additional contract.
 
+# Dependecies:
+
+The Library needs following nugets to be installed:
+
+    <PackageReference Include="BouncyCastle.Cryptography" Version="2.6.1" />
+    <PackageReference Include="SharpCompress" Version="0.39.0" />
+    <PackageReference Include="zlib.net-mutliplatform" Version="1.0.8" />
+
 # Usage
 
 ## Datatypes
