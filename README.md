@@ -13,6 +13,9 @@ At the moment there is only a comercial licence available. Please contact us (in
  * No TIA Portal needed!
  * Windows, Linux & MacOS supported
 
+# Changelog
+[CHANGELOG.md](/CHANGELOG.md)
+
 # Planned features:
  * High level function to extract Hardware Information
  * High level functions to access the Screens of WinCC Adavanced, WinCC Professional and WinCC Unified
