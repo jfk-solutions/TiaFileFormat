@@ -1,4 +1,5 @@
 # 2025.6.3.2
+- Changed Versioning, so multiple versions per day could be released
 - Fixes for V10.5, V11, V12, V13 and V14
 - Fixes in AutomationXML export for all versions
 - AutomationXML export for thoes Versions with most KOP Blocks should work.
