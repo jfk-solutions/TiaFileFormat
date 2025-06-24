@@ -1,3 +1,7 @@
+# 2025.6.3.3
+- Type for StorageBusinessObjects
+- Easier to use NetworkParser
+
 # 2025.6.3.2
 - Changed Versioning, so multiple versions per day could be released
 - Fixes for V10.5, V11, V12, V13 and V14
