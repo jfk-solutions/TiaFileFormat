@@ -1,3 +1,8 @@
+# 2025.6.24.2
+- Fixes in Automation XML generation for LAD, FDB, SCL, STL
+- Enable Cache for Interface Parsing
+- Tag Table parsing fixes
+
 # 2025.6.24.1
 - Fixes in Automation XML generation for LAD, FDB, SCL, STL
 
