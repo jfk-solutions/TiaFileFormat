@@ -1,3 +1,7 @@
+# 2025.6.27.1
+- massive work on automation xml for SCL blcoks
+- bit-offsets in interface
+
 # 2025.6.24.2
 - Fixes in Automation XML generation for LAD, FDB, SCL, STL
 - Enable Cache for Interface Parsing
