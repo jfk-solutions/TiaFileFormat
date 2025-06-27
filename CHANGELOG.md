@@ -1,3 +1,6 @@
+# 2025.6.27.2
+- bit-offsets in interface in sub structs
+ 
 # 2025.6.27.1
 - massive work on automation xml for SCL blcoks
 - bit-offsets in interface
