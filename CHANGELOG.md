@@ -1,3 +1,6 @@
+# 2025.6.30.1
+- SimaticML for Graph Blocks
+
 # 2025.6.27.2
 - bit-offsets in interface in sub structs
  
