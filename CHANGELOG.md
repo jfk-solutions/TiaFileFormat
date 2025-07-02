@@ -1,3 +1,6 @@
+# 2025.7.2.1
+- Work on Parsing of Charts (fix System.Drawing types)
+
 # 2025.6.30.1
 - SimaticML for Graph Blocks
 
