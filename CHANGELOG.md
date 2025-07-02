@@ -1,3 +1,6 @@
+# 2025.7.2.2
+- Work on DDC Charts (add types)
+
 # 2025.7.2.1
 - Work on Parsing of Charts (fix System.Drawing types)
 
