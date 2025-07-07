@@ -1,3 +1,10 @@
+# 2025.7.x.y
+- Absolute Offset Adresses support
+- Export of Technology Objects
+- Export of Array DBs
+- CFC Charts more support
+- Interface export fixes
+  
 # 2025.7.2.2
 - Work on DDC Charts (add types)
 
