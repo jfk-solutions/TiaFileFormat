@@ -4,6 +4,8 @@ A Library to read the Siemens TIA Files
 # License
 At the moment there is only a comercial licence available. Please contact us (info@jfk-solutions.de) for an individual offer.
 
+For Licence info look at: https://www.nuget.org/packages/jfk-solutions.TiaFileFormat/ and click on "Licence Info"
+
 # What is supported:
  * Read the Project/PLF files or read them directly from a compressed TIA project
  * Read TIA Files from Version V10.5 - V20
