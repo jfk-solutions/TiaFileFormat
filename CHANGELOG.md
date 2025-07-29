@@ -1,3 +1,9 @@
+# 2025.7.29.1
+- Convert options are now records
+- Network export contains mor information
+- Cache now works with different options
+- Read OPC Client Lists
+
 # 2025.7.10.1
 - Absolute Offset Adresses support
 - Export of Technology Objects
