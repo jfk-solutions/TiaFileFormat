@@ -1,10 +1,11 @@
-# 2025.8.3.1
+# 2025.8.4.1
 - Fix errors with some V13 Projects (interface parsing)
 - Fix decryption in some projects blocks
 - Some images in WinCC Unified Projects could not be loaded
 - Fix Interface Parsig in some Projects (StackOverflowExc)
 - Patch V15 Metadata for IpiTragetInstance (bug not yet found)
 - few null ref fixes
+- sub interface parts in V11-13 disabled atm. they cause stackoverflow, but will be fixed
 
 # 2025.7.29.1
 - Convert options are now records
