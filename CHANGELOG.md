@@ -1,3 +1,6 @@
+# 2025.8.4.2
+- fix graph xml export
+
 # 2025.8.4.1
 - Fix errors with some V13 Projects (interface parsing)
 - Fix decryption in some projects blocks
