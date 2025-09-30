@@ -1,4 +1,9 @@
-# 2025.8.4.2
+# 2025.9.30.1
+- fix some wincc script commands
+- export wincc from librarys
+- library version as folders
+
+- # 2025.8.4.2
 - fix graph xml export
 
 # 2025.8.4.1
