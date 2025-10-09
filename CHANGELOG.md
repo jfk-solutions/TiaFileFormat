@@ -1,3 +1,6 @@
+# xxxx.xx.xx.x
+- fixes in xml export of scl blocks (global access quoteing)
+  
 # 2025.9.30.1
 - fix some wincc script commands
 - export wincc from librarys
