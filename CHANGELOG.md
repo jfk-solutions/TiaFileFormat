@@ -1,6 +1,7 @@
-# xxxx.xx.xx.x
+# 2025.10.20.1
 - fixes in xml export of scl blocks (global access quoteing)
 - fix xml parsing, some had no namespaces
+- know how protection of datablocks
   
 # 2025.9.30.1
 - fix some wincc script commands
