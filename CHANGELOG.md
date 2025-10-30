@@ -1,3 +1,6 @@
+# 2025.10.30.1
+- perf fixes (lazy parse memberValues)
+
 # 2025.10.20.1
 - fixes in xml export of scl blocks (global access quoteing)
 - fix xml parsing, some had no namespaces
