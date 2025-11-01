@@ -1,3 +1,6 @@
+# new
+- Remove SharpCompress dependency
+
 # 2025.10.31.1
 - LID support in HmiTagTables and MemberValues
 
