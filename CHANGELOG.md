@@ -1,6 +1,9 @@
 # new
-- Remove SharpCompress dependency
 - Add Index file parsing (not yet finished, but is done for faster access)
+
+# 2025.11.3.1
+- Remove SharpCompress dependency
+- thread safe access of MemberInstance
 
 # 2025.10.31.1
 - LID support in HmiTagTables and MemberValues
