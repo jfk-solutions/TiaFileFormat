@@ -1,6 +1,9 @@
 # new
 - Add Index file parsing (not yet finished, but is done for faster access)
 
+# 2025.11.11.1
+- fix multi lang comments in SCL XML export
+
 # 2025.11.3.1
 - Remove SharpCompress dependency
 - thread safe access of MemberInstance
