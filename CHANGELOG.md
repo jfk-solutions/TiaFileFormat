@@ -1,6 +1,10 @@
 # new
 - Add Index file parsing (not yet finished, but is done for faster access)
 
+# 2025.11.17.1
+- Lazy parse of "MemberValues" cause of perfomance issues with large arrays
+- SCL Code fixes in export
+
 # 2025.11.11.1
 - fix multi lang comments in SCL XML export
 
