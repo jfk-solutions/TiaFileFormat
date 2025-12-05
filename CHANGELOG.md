@@ -1,7 +1,10 @@
 # new
 - Add Index file parsing (not yet finished, but is done for faster access)
 
+# 2025.12.05.1
 - fixed zipped 10.5 projects
+- V21 support
+- fix export of some projects created wrong SCL
 
 # 2025.11.17.1
 - Lazy parse of "MemberValues" cause of perfomance issues with large arrays
