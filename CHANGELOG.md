@@ -1,6 +1,9 @@
 # new
 - Add Index file parsing (not yet finished, but is done for faster access)
 
+# 2025.12.19.1
+- fix empty stl networks
+
 # 2025.12.14.1
 - support nw interfaces on touch, and also pb interfaces
 
