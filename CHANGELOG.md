@@ -1,6 +1,9 @@
 # new
 - Add Index file parsing (not yet finished, but is done for faster access)
 
+# 2025.12.26.1
+- check user credentials
+
 # 2025.12.19.1
 - fix empty stl networks
 
