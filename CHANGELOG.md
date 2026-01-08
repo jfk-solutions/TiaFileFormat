@@ -1,6 +1,9 @@
 # new
 - Add Index file parsing (not yet finished, but is done for faster access)
 
+# 2026.1.8.1
+- fix application keys with zero length
+
 # 2025.12.26.2
 - support netstandard 2.0
 
