@@ -1,6 +1,9 @@
 # new
 - Add Index file parsing (not yet finished, but is done for faster access)
 
+# 2026.2.23.1
+- fix export of some blocks
+
 # 2026.1.12.1
 - add API to get project security
 
