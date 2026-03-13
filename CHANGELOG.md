@@ -1,6 +1,10 @@
 # new
 - Add Index file parsing (not yet finished, but is done for faster access)
 
+# 2026.3.13.1
+- additional OB infos in Codeblock
+- more null ref checks
+
 # 2026.2.23.1
 - fix export of some blocks
 
