@@ -6,6 +6,8 @@ At the moment there is only a comercial licence available. Please contact us (in
 
 For Licence info look at: https://www.nuget.org/packages/jfk-solutions.TiaFileFormat/ and click on "Licence Info"
 
+For a Demo look at https://github.com/jfk-solutions/TiaProjectBrowser a tool wich uses the lib to browse TIA projects
+
 # What is supported:
  * Read the Project/PLF files or read them directly from a compressed TIA project
  * Read TIA Files from Version V10.5 - V20
