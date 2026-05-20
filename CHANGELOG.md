@@ -1,6 +1,12 @@
 # new
 - Add Index file parsing (not yet finished, but is done for faster access)
 
+# 2026.5.20.1
+- load correct plf when zap has nested projects
+- better graph export
+- null ref fixes
+- fix scl conversion
+
 # 2026.4.13.1
 - crc support for MemberInatance
 
