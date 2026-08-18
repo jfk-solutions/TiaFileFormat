@@ -1,6 +1,7 @@
 # new
 - Add Index file parsing (not yet finished, but is done for faster access)
 - Chart Export now matches TIA portal
+- AutomationXML export now should match TIA Portal mostly everywhere
 
 # 2026.5.20.1
 - load correct plf when zap has nested projects
