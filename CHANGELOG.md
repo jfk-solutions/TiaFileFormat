@@ -1,5 +1,7 @@
 # new
 - Add Index file parsing (not yet finished, but is done for faster access)
+
+# 2026.8.25.1
 - Chart Export now matches TIA portal
 - AutomationXML export now should match TIA Portal mostly everywhere
 
