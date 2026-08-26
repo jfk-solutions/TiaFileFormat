@@ -1,5 +1,6 @@
-# new
-- Add Index file parsing (not yet finished, but is done for faster access)
+# 2026.8.26.1
+- massive fixes in performance of exports and memory usage
+- Add Index file parsing, used only in non archives (could be disabled)
 
 # 2026.8.25.2
 - more AutomationXML export fixes
