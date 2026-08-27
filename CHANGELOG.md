@@ -1,4 +1,4 @@
-# 2026.8.26.1
+# 2026.8.27.1
 - massive fixes in performance of exports and memory usage
 - Add Index file parsing, used only in non archives (could be disabled)
 
