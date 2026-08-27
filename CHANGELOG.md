@@ -1,4 +1,7 @@
-# 2026.8.27.1
+# 2026.8.27.3
+- CallPathBuilder
+
+# 2026.8.27.2
 - massive fixes in performance of exports and memory usage
 - Add Index file parsing, used only in non archives (could be disabled)
 
