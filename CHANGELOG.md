@@ -1,4 +1,8 @@
 # 2026.8.27.3
+- Read xref file and api for it
+- fixes in f-blocks and alarms reading
+
+# 2026.8.27.3
 - CallPathBuilder
 
 # 2026.8.27.2
