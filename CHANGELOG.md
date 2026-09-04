@@ -1,3 +1,9 @@
+# 2026.9.4.1
+- GSD AML support 
+- XRef support and documentation
+- Read error with CoreTexts
+- Fix Alarm reading of projects
+
 # 2026.8.27.3
 - Read xref file and api for it
 - fixes in f-blocks and alarms reading
