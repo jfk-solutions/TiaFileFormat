@@ -1,3 +1,8 @@
+# 2026.9.11.1
+- Resolve V11 multi-instance call operands
+- Expand V11 interface subparts
+- Resolve V11 call parameter names
+
 # 2026.9.4.1
 - GSD AML support 
 - XRef support and documentation
