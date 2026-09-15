@@ -1,3 +1,6 @@
+# 2026.9.15.1
+- Fix STL variable scopes and empty statements in Automation XML
+
 # 2026.9.11.2
 - Cache File for Siemens Data Folder
 
