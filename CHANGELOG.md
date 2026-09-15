@@ -1,3 +1,6 @@
+# 2026.9.15.2
+- Fix Automation XML parity for interfaces and STL/SCL exports
+
 # 2026.9.15.1
 - Fix STL variable scopes and empty statements in Automation XML
 
