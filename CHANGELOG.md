@@ -1,3 +1,8 @@
+# 2026.10.2.1
+- Cyclic Reference Fix in BaseHmiTypes (updated cause of that)
+- Null Ref fix in some Projects
+- ZAL File support
+
 # 2026.9.15.2
 - Fix Automation XML parity for interfaces and STL/SCL exports
 
