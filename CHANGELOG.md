@@ -1,3 +1,7 @@
+# 2026.10.5.1
+- multiple work on HMI Types
+- export of some library types
+
 # 2026.10.2.1
 - Cyclic Reference Fix in BaseHmiTypes (updated cause of that)
 - Null Ref fix in some Projects
