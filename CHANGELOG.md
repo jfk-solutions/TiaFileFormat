@@ -1,3 +1,7 @@
+# 2026.10.8.1
+- support parsing of traces
+- export errors fixed
+
 # 2026.10.5.1
 - multiple work on HMI Types
 - export of some library types
