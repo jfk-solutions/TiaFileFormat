@@ -1,3 +1,7 @@
+# 2026.10.10.1
+- fixes in scl generation
+- better HMI export
+
 # 2026.10.8.1
 - support parsing of traces
 - export errors fixed
