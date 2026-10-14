@@ -1,4 +1,8 @@
-# 2026.10.10.1
+# 2026.10.10.3
+- fixes null ref exception
+- better HMI support
+
+# 2026.10.10.2
 - fixes in scl generation
 - better HMI export
 
