@@ -1,3 +1,7 @@
+# 2026.10.16.1
+- fix export of some blocks in TIA
+- fix export of EMF/WMF to HMIs
+
 # 2026.10.10.3
 - fixes null ref exception
 - better HMI support
