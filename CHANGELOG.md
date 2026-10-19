@@ -1,3 +1,9 @@
+# 2026.10.19.2
+- export performance fixes
+
+# 2026.10.19.1
+- export fixes
+
 # 2026.10.16.1
 - fix export of some blocks in TIA
 - fix export of EMF/WMF to HMIs
