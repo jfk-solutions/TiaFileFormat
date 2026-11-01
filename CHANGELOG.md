@@ -1,3 +1,7 @@
+# 2026.11.1.2
+- unified fixes
+- zlib update
+
 # 2026.10.19.2
 - export performance fixes
 
