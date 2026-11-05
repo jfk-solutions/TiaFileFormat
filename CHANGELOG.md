@@ -1,3 +1,6 @@
+# 2026.11.5.1
+- list gsd files of hardware
+
 # 2026.11.1.2
 - unified fixes
 - zlib update
